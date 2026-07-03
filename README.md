@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/pushkaladlakha/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pushkaladlakha/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
