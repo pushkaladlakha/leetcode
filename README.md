@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/pushkaladlakha/leetcode/tree/master/0743-network-delay-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
