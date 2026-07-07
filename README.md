@@ -124,6 +124,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/pushkaladlakha/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -141,5 +142,6 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
