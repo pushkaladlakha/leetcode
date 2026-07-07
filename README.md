@@ -38,6 +38,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/pushkaladlakha/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pushkaladlakha/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pushkaladlakha/leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
