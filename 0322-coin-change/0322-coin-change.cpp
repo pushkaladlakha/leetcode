@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int rec(int index , int target , vector<int> &nums , vector<vector<int>> &dp){
-        if(index<0){return 1e8;}
-        else if(target==0) return 0;
-        if(dp[index][target]!=-1) return dp[index][target];
-        int take {INT_MAX};
-        if(nums[index]<=target) take = 1+ rec(index,target-nums[index],nums,dp);
-        int leave = rec(index-1,target,nums,dp);
-        return dp[index][target]=min(leave,take);
-    }
-    int coinChange(vector<int>& coins, int amount) {
-        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,-1));
-        if(rec(coins.size()-1,amount,coins,dp)>=1e8) return -1;
-        return rec(coins.size()-1,amount,coins,dp);
 
+    int coinChange(vector<int>& coins, int amount) {
+        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,1e8));
+        for(int i = 0 ; i < coins.size() ; i++){
+            for(int j = 0 ; j< amount+1 ; j++){
+                if(j==0){dp[i][j]=0;continue;}
+                if(i==0){
+                    if(j%coins[0]==0) dp[0][j]=j/coins[0];
+                    continue;
+                }
+                int take {INT_MAX};
+                if(coins[i]<=j) take = 1+ dp[i][j-coins[i]];
+                int leave = dp[i-1][j];
+                dp[i][j]=min(take,leave);
+            }
+        }
+        if(dp[coins.size()-1][amount]>=1e8) return -1;
+        return dp[coins.size()-1][amount];
     }
 };
