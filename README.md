@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkaladlakha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions
 | [0743-network-delay-time](https://github.com/pushkaladlakha/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/pushkaladlakha/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pushkaladlakha/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkaladlakha/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions
 | [0785-is-graph-bipartite](https://github.com/pushkaladlakha/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/pushkaladlakha/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkaladlakha/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
@@ -90,6 +93,7 @@ A collection of LeetCode questions
 | ------- |
 | [0547-number-of-provinces](https://github.com/pushkaladlakha/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/pushkaladlakha/leetcode/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/pushkaladlakha/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions
 | [0064-minimum-path-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
