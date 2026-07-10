@@ -42,6 +42,7 @@ A collection of LeetCode questions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pushkaladlakha/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pushkaladlakha/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pushkaladlakha/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/pushkaladlakha/leetcode/tree/master/0322-coin-change) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 ## Depth-First Search
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions
 | ------- |
 | [0001-two-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
