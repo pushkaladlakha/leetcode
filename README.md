@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushkaladlakha/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pushkaladlakha/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkaladlakha/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pushkaladlakha/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/pushkaladlakha/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushkaladlakha/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushkaladlakha/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/pushkaladlakha/leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 ## Depth-First Search
