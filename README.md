@@ -24,12 +24,14 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pushkaladlakha/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0064-minimum-path-sum) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 ## Depth-First Search
