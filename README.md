@@ -35,6 +35,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushkaladlakha/leetcode/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/pushkaladlakha/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
