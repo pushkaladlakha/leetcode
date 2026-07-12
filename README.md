@@ -40,6 +40,7 @@ A collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/pushkaladlakha/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0064-minimum-path-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pushkaladlakha/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pushkaladlakha/leetcode/tree/master/0118-pascals-triangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
