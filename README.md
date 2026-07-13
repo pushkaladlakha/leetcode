@@ -63,6 +63,7 @@ A collection of LeetCode questions
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkaladlakha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/pushkaladlakha/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/pushkaladlakha/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
