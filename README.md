@@ -12,6 +12,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pushkaladlakha/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions
 | [0198-house-robber](https://github.com/pushkaladlakha/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pushkaladlakha/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/pushkaladlakha/leetcode/tree/master/0322-coin-change) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/pushkaladlakha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pushkaladlakha/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pushkaladlakha/leetcode/tree/master/1020-number-of-enclaves) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions
 | [0074-search-a-2d-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/pushkaladlakha/leetcode/tree/master/0875-koko-eating-bananas) |
