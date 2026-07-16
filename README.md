@@ -183,6 +183,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pushkaladlakha/leetcode/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/pushkaladlakha/leetcode/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -238,4 +239,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pushkaladlakha/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/pushkaladlakha/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
