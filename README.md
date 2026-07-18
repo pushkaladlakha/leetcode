@@ -207,6 +207,7 @@ A collection of LeetCode questions
 | [0583-delete-operation-for-two-strings](https://github.com/pushkaladlakha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pushkaladlakha/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pushkaladlakha/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
 |  |
 | ------- |
