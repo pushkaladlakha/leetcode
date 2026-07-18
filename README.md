@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [1091-shortest-path-in-binary-matrix](https://github.com/pushkaladlakha/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkaladlakha/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pushkaladlakha/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkaladlakha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pushkaladlakha/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
