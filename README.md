@@ -25,6 +25,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pushkaladlakha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pushkaladlakha/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pushkaladlakha/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pushkaladlakha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/pushkaladlakha/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/pushkaladlakha/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0063-unique-paths-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/pushkaladlakha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pushkaladlakha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
