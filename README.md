@@ -206,6 +206,7 @@ A collection of LeetCode questions
 | [0516-longest-palindromic-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pushkaladlakha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pushkaladlakha/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pushkaladlakha/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Binary Search
@@ -228,6 +229,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -260,4 +262,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
