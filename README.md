@@ -213,6 +213,7 @@ A collection of LeetCode questions
 | [0583-delete-operation-for-two-strings](https://github.com/pushkaladlakha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pushkaladlakha/leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/pushkaladlakha/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pushkaladlakha/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pushkaladlakha/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/pushkaladlakha/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1208-get-equal-substrings-within-budget](https://github.com/pushkaladlakha/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkaladlakha/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pushkaladlakha/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
@@ -269,5 +271,10 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1208-get-equal-substrings-within-budget](https://github.com/pushkaladlakha/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/pushkaladlakha/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
