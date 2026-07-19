@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pushkaladlakha/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/pushkaladlakha/leetcode/tree/master/0743-network-delay-time) |
+| [2611-mice-and-cheese](https://github.com/pushkaladlakha/leetcode/tree/master/2611-mice-and-cheese) |
 ## Merge Sort
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkaladlakha/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pushkaladlakha/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2611-mice-and-cheese](https://github.com/pushkaladlakha/leetcode/tree/master/2611-mice-and-cheese) |
 ## Greedy
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pushkaladlakha/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2611-mice-and-cheese](https://github.com/pushkaladlakha/leetcode/tree/master/2611-mice-and-cheese) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2611-mice-and-cheese](https://github.com/pushkaladlakha/leetcode/tree/master/2611-mice-and-cheese) |
 ## Depth-First Search
 |  |
 | ------- |
