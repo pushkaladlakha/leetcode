@@ -305,4 +305,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pushkaladlakha/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/pushkaladlakha/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
