@@ -95,6 +95,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pushkaladlakha/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2611-mice-and-cheese](https://github.com/pushkaladlakha/leetcode/tree/master/2611-mice-and-cheese) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pushkaladlakha/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/pushkaladlakha/leetcode/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pushkaladlakha/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pushkaladlakha/leetcode/tree/master/0647-palindromic-substrings) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pushkaladlakha/leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Stack
 |  |
