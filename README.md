@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pushkaladlakha/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/pushkaladlakha/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions
 | [0018-4sum](https://github.com/pushkaladlakha/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/pushkaladlakha/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pushkaladlakha/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/pushkaladlakha/leetcode/tree/master/0455-assign-cookies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/pushkaladlakha/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/pushkaladlakha/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pushkaladlakha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/pushkaladlakha/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pushkaladlakha/leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Stack
