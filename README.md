@@ -61,6 +61,7 @@ A collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pushkaladlakha/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/pushkaladlakha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pushkaladlakha/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pushkaladlakha/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/pushkaladlakha/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/pushkaladlakha/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/pushkaladlakha/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 ## Bucket Sort
 |  |
